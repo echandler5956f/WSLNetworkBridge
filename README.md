@@ -13,7 +13,7 @@ Now, whenever you want to connect to something that requires dynamic port bridgi
 Note that running the bash script isn't necessary when running ROS locally- only when connecting to external machines like a Turtlebot.
 
 # Disclaimer: 
-I do not take any responsibility for potential damage to hardware, or brain damage due to my poor scripting practices.
+I do not take any responsibility for potential damage to hardware.
 Credits for the main executable and .dll go to CzBix from https://github.com/CzBiX/WSLHostPatcher. 
 More information about WSL network problems and solutions can be found here: https://github.com/microsoft/WSL/issues/4150#issuecomment-1018524753
 
