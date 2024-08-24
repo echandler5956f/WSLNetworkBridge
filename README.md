@@ -15,5 +15,3 @@ Note that running the bash script isn't necessary when running ROS locally- only
 # Disclaimer: 
 Credits for the main executable and .dll go to CzBix from https://github.com/CzBiX/WSLHostPatcher. 
 More information about WSL network problems and solutions can be found here: https://github.com/microsoft/WSL/issues/4150#issuecomment-1018524753
-
-If you have any questions feel free to email me at ethanchandler5956f@gmail.com
